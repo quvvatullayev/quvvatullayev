@@ -22,8 +22,8 @@
 
 ## About Me
 
-### Hi there 👋. I'm Azizbek and I'm from [UZBEKISTAN🇺🇿](https://en.wikipedia.org/wiki/Uzbekistan). I'm 16 y.o. I study at school.
+### Hi there 👋. I'm Og'abek and I'm from [UZBEKISTAN🇺🇿](https://en.wikipedia.org/wiki/Uzbekistan). I'm 20 y.o. I study at [TATU](https://tuit.uz/)
 
 
-- **🔴 Visit My Instagram Accout [@azizbekdeveloper](https://www.instagram.com/quvvatullayev/)**
-- **🔵 Chat with me on Telegram Messanger [@azizbekdeveloper](https://t.me/quvvatullayev)**
+- **🔴 Visit My Instagram Accout [@quvvatullayev](https://www.instagram.com/quvvatullayev/)**
+- **🔵 Chat with me on Telegram Messanger [@quvvatullayev](https://t.me/quvvatullayev)**
