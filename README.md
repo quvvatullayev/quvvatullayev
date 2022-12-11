@@ -5,7 +5,7 @@
 
 [![CodeWars](https://www.codewars.com/users/quvvatullayev/badges/large)]([https://www.codewars.com/users/quvvatullayev(https://www.codewars.com/users/quvvatullayev))
 
-# [Quvvatullayev Ogabek![image](https://user-images.githubusercontent.com/105332906/206888109-4cdd00da-8b01-4ce1-bc87-4bcd9bbf82f4.png)](https://www.quvvatullayev.com) ![Developer Icon](./images/developer.png) 🇺🇿 
+# [Quvvatullayev Ogabek![image](https://www.quvvatullayev.com) ![Developer Icon](./images/developer.png) 🇺🇿 
 
 ## Social networks
 <a href="https://github.com/quvvatullayev"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
