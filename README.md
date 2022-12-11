@@ -13,7 +13,7 @@
 <a href="https://instagram.com/quvvatullayev"><img src="https://img.shields.io/badge/instagram-D1001F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://t.me/quvvatullayev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.codewars.com/users/quvvatullayev/"><img src="https://img.shields.io/badge/codewars-DD915F?style=for-the-badge&logo=codewars&logoColor=white"/></a>
-<a href="https://www.sololearn.com/profile/20988344"><img src="https://img.shields.io/badge/sololearn-10397c?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
+<a href="https://www.sololearn.com/quvvatullayev/20988344"><img src="https://img.shields.io/badge/sololearn-10397c?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
 
 ## Language and TOOLS
 
