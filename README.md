@@ -27,14 +27,3 @@
 
 - **🔴 Visit My Instagram Accout [@azizbekdeveloper](https://www.instagram.com/quvvatullayev/)**
 - **🔵 Chat with me on Telegram Messanger [@azizbekdeveloper](https://t.me/quvvatullayev)**
-
-
-## GitHub Profile
-
-![quvvatullayev's GitHub stats](https://github-readme-stats.vercel.app/api?username=quvvatullayev&show_icons=true&theme=tokyonight)
-
-<br />
-
-<!-- **Most Used Languages**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizbekqozoqov&langs_count=8&title_color=fff&icon_color=343434&text_color=fff&bg_color=36454F&hide_border=true)](https://github.com/azizbekqozoqov/github-readme-stats) -->
