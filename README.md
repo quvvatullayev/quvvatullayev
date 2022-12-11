@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-
-
-![quvvatullayevogabek's github stats](https://github-readme-stats.vercel.app/api?username=diyorbekmajidov&show_icons=true&theme=tokyonight)
