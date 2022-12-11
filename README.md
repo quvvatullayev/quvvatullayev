@@ -5,14 +5,14 @@
 
 [![CodeWars](https://www.codewars.com/users/quvvatullayev/badges/large)]([https://www.codewars.com/users/quvvatullayev(https://www.codewars.com/users/quvvatullayev))
 
-# [Azizbek Qozoqov](https://www.azizbekdev.com) ![Developer Icon](./images/developer.png) 🇺🇿 
+# [Quvvatullayev Ogabek](https://www.quvvatullayev.com) ![Developer Icon](./images/developer.png) 🇺🇿 
 
 ## Social networks
-<a href="https://github.com/azizbekQozoqov"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://gitlab.com/azizbekQozoqov/"><img src="https://img.shields.io/badge/gitlab-FF6600?style=for-the-badge&logo=gitlab&logoColor=white"/></a></a>
-<a href="https://instagram.com/azizbekdeveloper"><img src="https://img.shields.io/badge/instagram-D1001F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://t.me/azizbekdeveloper"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.codewars.com/users/azizbekQozoqov/"><img src="https://img.shields.io/badge/codewars-DD915F?style=for-the-badge&logo=codewars&logoColor=white"/></a>
+<a href="https://github.com/quvvatullayev"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://gitlab.com/quvvatullayev/"><img src="https://img.shields.io/badge/gitlab-FF6600?style=for-the-badge&logo=gitlab&logoColor=white"/></a></a>
+<a href="https://instagram.com/quvvatullayev"><img src="https://img.shields.io/badge/instagram-D1001F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://t.me/quvvatullayev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://www.codewars.com/users/quvvatullayev/"><img src="https://img.shields.io/badge/codewars-DD915F?style=for-the-badge&logo=codewars&logoColor=white"/></a>
 <a href="https://www.sololearn.com/profile/20988344"><img src="https://img.shields.io/badge/sololearn-10397c?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
 
 ## Language and TOOLS
@@ -25,13 +25,13 @@
 ### Hi there 👋. I'm Azizbek and I'm from [UZBEKISTAN🇺🇿](https://en.wikipedia.org/wiki/Uzbekistan). I'm 16 y.o. I study at school.
 
 
-- **🔴 Visit My Instagram Accout [@azizbekdeveloper](https://www.instagram.com/azizbekdeveloper/)**
-- **🔵 Chat with me on Telegram Messanger [@azizbekdeveloper](https://t.me/azizbekdeveloper)**
+- **🔴 Visit My Instagram Accout [@azizbekdeveloper](https://www.instagram.com/quvvatullayev/)**
+- **🔵 Chat with me on Telegram Messanger [@azizbekdeveloper](https://t.me/quvvatullayev)**
 
 
 ## GitHub Profile
 
-![AzizbekDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizbekqozoqov&show_icons=true&theme=tokyonight)
+![quvvatullayev's GitHub stats](https://github-readme-stats.vercel.app/api?username=quvvatullayev&show_icons=true&theme=tokyonight)
 
 <br />
 
