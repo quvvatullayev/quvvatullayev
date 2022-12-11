@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-![quvvatullayevogabek's github stats](https://github-readme-stats.vercel.app/api?username=diyorbekmajidov&show_icons=true&theme=tokyonight)
+![quvvatullayevogabek's github stats](https://github-readme-stats.vercel.app/api?username=quvvatullayev&show_icons=true&theme=tokyonight)
 
-[![CodeWars](https://www.codewars.com/users/azizbekQozoqov/badges/large)](https://www.codewars.com/users/azizbekQozoqov)
+[![CodeWars](https://www.codewars.com/users/quvvatullayev/badges/large)]([https://www.codewars.com/users/quvvatullayev(https://www.codewars.com/users/quvvatullayev))
 
 # [Azizbek Qozoqov](https://www.azizbekdev.com) ![Developer Icon](./images/developer.png) 🇺🇿 
 
