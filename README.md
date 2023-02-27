@@ -15,7 +15,7 @@
 
 ## Language and TOOLS
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,flask,github,html,instagram,linux,py,sass,vscode,django,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,bootstrap,django,sqlite,flask,github,git,linux,css,html,sass,vscode)](https://skillicons.dev)
 
 
 ## About Me
