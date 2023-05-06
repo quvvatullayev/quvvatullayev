@@ -6,7 +6,7 @@
 [![CodeWars](https://www.codewars.com/users/quvvatullayev/badges/large)]([https://www.codewars.com/users/quvvatullayev(https://www.codewars.com/users/quvvatullayev))
 
 # [Quvvatullayev Ogabek!](quvvatullayev@gmail.com)
-# i am a backend developer
+# I am a backend developer
 
 ## Social networks
 <a href="https://github.com/quvvatullayev"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
