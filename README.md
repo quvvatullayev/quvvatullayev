@@ -18,11 +18,32 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,bootstrap,django,sqlite,flask,github,git,linux,css,html,sass,vscode,md,powershell,postman)](https://skillicons.dev)
 
+# Hi there! 👋
 
-## About Me
+I'm a passionate Software Engineer with expertise in Python, Git, GitHub, API Development, Django, Django REST Framework, and SQLite. Currently, I work as a full-time Software Engineer at Codeschooluz, based in Samarkand, Samarqand Region, Uzbekistan.
 
-### Hi there 👋. I'm Og'abek and I'm from [UZBEKISTAN🇺🇿](https://en.wikipedia.org/wiki/Uzbekistan). I'm 20 y.o. I study at [TATU ![image](https://user-images.githubusercontent.com/105332906/206888050-f68457da-1397-4adb-b063-d0c73ba28c67.png)](https://tuit.uz/)
+## Experience
 
+- **Software Engineer** at Codeschooluz (Dec 2022 - Present)
+  - Worked on various projects involving Python, Git, GitHub, API Development, Django, Django REST Framework, and SQLite.
+  - Contributed to the development of robust and scalable software solutions.
+  - Collaborated with cross-functional teams to deliver high-quality products.
 
-- **🔴 Visit My Instagram Accout [@quvvatullayev](https://www.instagram.com/quvvatullayev/)**
-- **🔵 Chat with me on Telegram Messanger [@quvvatullayev](https://t.me/quvvatullayev)**
+- **Python Developer** at Codeacademy (Apr 2023 - May 2023)
+  - Gained hands-on experience in Python, Git, GitHub, API Development, Django, Django REST Framework, and SQLite.
+  - Developed efficient and maintainable code for different projects.
+  - Worked closely with teammates to meet project deadlines.
+
+## Skills
+
+- Python (Programming Language)
+- Git
+- GitHub
+- API Development
+- Django
+- Django REST Framework
+- SQLite
+
+Feel free to reach out to me if you have any questions or if you'd like to collaborate on interesting projects. You can find me on [LinkedIn](https://www.linkedin.com/in/yourusername) and [Twitter](https://twitter.com/yourusername).
+
+Let's connect and create amazing software together!
