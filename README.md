@@ -18,8 +18,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,bootstrap,django,sqlite,flask,github,git,linux,css,html,sass,vscode,md,powershell,postman)](https://skillicons.dev)
 
-# Hi there! 👋
-
 I'm a passionate Software Engineer with expertise in Python, Git, GitHub, API Development, Django, Django REST Framework, and SQLite. Currently, I work as a full-time Software Engineer at Codeschooluz, based in Samarkand, Samarqand Region, Uzbekistan.
 
 ## Experience
