@@ -31,6 +31,12 @@ Feel free to reach out to me if you have any questions or if you'd like to colla
 Let's connect and create amazing software together!
 
 
+
+![quvvatullayevogabek's github stats](https://github-readme-stats.vercel.app/api?username=quvvatullayev&show_icons=true&theme=tokyonight)
+
+[![CodeWars](https://www.codewars.com/users/quvvatullayev/badges/large)]([https://www.codewars.com/users/quvvatullayev(https://www.codewars.com/users/quvvatullayev))
+
+
 ## Social networks
 <a href="https://github.com/quvvatullayev"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/og-abek-quvvatullayev-841282276"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3d5CJcDBOv6A14d91vtEwf0do-p_skOwrjQ&usqp=CAU" style="width: 100px; height: 27px;"/></a>
