@@ -32,6 +32,9 @@ Let's connect and create amazing software together!
 
 
 ## Social networks
+
+[![CodeWars](https://www.codewars.com/users/quvvatullayev/badges/large)]([https://www.codewars.com/users/quvvatullayev(https://www.codewars.com/users/quvvatullayev))
+
 <a href="https://github.com/quvvatullayev"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/og-abek-quvvatullayev-841282276"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3d5CJcDBOv6A14d91vtEwf0do-p_skOwrjQ&usqp=CAU" style="width: 100px; height: 27px;"/></a>
 <a href="https://t.me/quvvatullayev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
