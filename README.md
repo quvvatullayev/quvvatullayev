@@ -42,5 +42,5 @@ I'm a passionate Software Engineer with expertise in Python, Git, GitHub, API De
 - Django REST Framework
 - SQLite
 
-Feel free to reach out to me if you have any questions or if you'd like to collaborate on interesting projects. You can find me on [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/og-abek-quvvatullayev-841282276/)) 
+Feel free to reach out to me if you have any questions or if you'd like to collaborate on interesting projects. You can find me on [LinkedIn][https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/og-abek-quvvatullayev-841282276/) 
 Let's connect and create amazing software together!
