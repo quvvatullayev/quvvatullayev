@@ -1,11 +1,6 @@
 ## Hi there 👋
 
-
-![quvvatullayevogabek's github stats](https://github-readme-stats.vercel.app/api?username=quvvatullayev&show_icons=true&theme=tokyonight)
-
-[![CodeWars](https://www.codewars.com/users/quvvatullayev/badges/large)]([https://www.codewars.com/users/quvvatullayev(https://www.codewars.com/users/quvvatullayev))
-
-# [Quvvatullayev Ogabek!](quvvatullayev@gmail.com)
+# [My name is Quvvatullayev Ogabek!](quvvatullayev@gmail.com)
 ## `I am a backend developer`
 
 I'm a passionate Software Engineer with expertise in Python, Git, GitHub, API Development, Django, Django REST Framework, and SQLite. Currently, I work as a full-time Software Engineer at Codeschooluz, based in Samarkand, Samarqand Region, Uzbekistan.
