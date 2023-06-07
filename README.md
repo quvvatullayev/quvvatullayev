@@ -44,4 +44,4 @@ Let's connect and create amazing software together!
 
 [![My Skills](https://skillicons.dev/icons?i=py,bootstrap,django,sqlite,flask,github,git,linux,css,html,sass,vscode,md,powershell,postman)](https://skillicons.dev)
 
-<h1><a href="http://myabout.pythonanywhere.com/">complete information about me</a></h1>
+<h1>👉<a href="http://myabout.pythonanywhere.com/">complete information about me</a></h1>
